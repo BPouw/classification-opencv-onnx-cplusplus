@@ -1,0 +1,3 @@
+/Users/boris.pouw/CLionProjects/patato-cplusplus-onnx/cmake-build-debug/CMakeFiles/patato_cplusplus_onnx.dir
+/Users/boris.pouw/CLionProjects/patato-cplusplus-onnx/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/boris.pouw/CLionProjects/patato-cplusplus-onnx/cmake-build-debug/CMakeFiles/rebuild_cache.dir

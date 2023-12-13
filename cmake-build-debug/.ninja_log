@@ -1,0 +1,11 @@
+# ninja log v5
+0	89	1702472615962730663	build.ninja	594d48c7f34beb46
+0	59	1702472615962730663	build.ninja	594d48c7f34beb46
+1	1626	1702472617591597343	CMakeFiles/patato_cplusplus_onnx.dir/main.cpp.o	9bde4ba43d93edd3
+1629	1989	1702472617957540208	patato_cplusplus_onnx	61a55fa5bb8e5d18
+6	958	1702472730235634075	CMakeFiles/patato_cplusplus_onnx.dir/main.cpp.o	9bde4ba43d93edd3
+959	1003	1702472730283848030	patato_cplusplus_onnx	61a55fa5bb8e5d18
+5	938	1702472739217308649	CMakeFiles/patato_cplusplus_onnx.dir/main.cpp.o	9bde4ba43d93edd3
+938	981	1702472739264603771	patato_cplusplus_onnx	61a55fa5bb8e5d18
+5	949	1702472759818351529	CMakeFiles/patato_cplusplus_onnx.dir/main.cpp.o	9bde4ba43d93edd3
+949	993	1702472759866008567	patato_cplusplus_onnx	61a55fa5bb8e5d18
